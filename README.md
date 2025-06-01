@@ -1,6 +1,6 @@
 # Optimizing Sales Strategies
 
-This project was completed as part of the **Data Analyst Certification**. It involves analyzing sales data for a company that sells pens and printers, with the aim of identifying the most effective sales strategy to increase revenue and optimize resources.
+This project involves analyzing sales data for a company that sells pens and printers, with the aim of identifying the most effective sales strategy to increase revenue and optimize resources.
 
 ---
 
