@@ -24,7 +24,7 @@ st.markdown(
 )
 
 # --- Load Cleaned Data ---
-df = pd.read_csv(r"C:\Users\BM\Desktop\BM DataCamp and other Certificates\Data Analyst Certification\workspace\cleaned_product_sales.csv")
+df = pd.read_csv(r"cleaned_product_sales.csv")
 
 # --- Data Cleaning & Feature Engineering ---
 col1, col2 = st.columns([1, 2])
