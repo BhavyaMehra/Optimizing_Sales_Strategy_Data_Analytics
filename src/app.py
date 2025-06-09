@@ -6,6 +6,18 @@ import numpy as np
 
 st.set_page_config(page_title="Optimizing Sales Strategies Dashboard", layout="wide")
 
+#--- Custom CSS for grey background ---
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #f0f2f6;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # --- Title and Description
 st.markdown(
     """
